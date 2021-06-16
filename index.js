@@ -6,3 +6,7 @@ function functionTest(){
 function functionDev(){
     console.log('devBranch');
 }
+
+function functionCheckTask(){
+    console.log('tastTest');
+}
